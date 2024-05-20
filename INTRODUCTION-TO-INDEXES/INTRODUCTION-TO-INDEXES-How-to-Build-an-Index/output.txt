@@ -1,0 +1,6 @@
+SET
+CREATE INDEX
+schemaname|tablename|indexname|tablespace|indexdef
+cc_user|customers|customers_pkey||CREATE UNIQUE INDEX customers_pkey ON cc_user.customers USING btree (customer_id)
+cc_user|customers|customers_city_idx||CREATE INDEX customers_city_idx ON cc_user.customers USING btree (city)
+(2 rows)
