@@ -14,3 +14,7 @@ Take a look at the applet on this page. Try searching for a specific number. How
 
 Community Forums
 Still have questions? View this exercise's thread in the Codecademy Forums.
+
+
+
+![](./w-wo-indexes.png)
