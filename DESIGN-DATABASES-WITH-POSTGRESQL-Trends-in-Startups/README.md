@@ -15,3 +15,5 @@ What are you waiting for? Let’s get started!
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
+Learn SQL: Trends In Startups
+https://www.youtube.com/watch?v=-7fN2eWUTmI
