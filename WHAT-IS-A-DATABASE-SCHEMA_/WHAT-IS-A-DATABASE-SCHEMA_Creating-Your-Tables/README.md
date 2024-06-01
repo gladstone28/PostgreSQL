@@ -1,7 +1,7 @@
 link to the lesson
 
 https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/how-do-i-make-and-populate-my-own-database/modules/designing-a-database-schema/lessons/what-is-database-schema/exercises/creating-your-tableso
-
+https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/how-do-i-make-and-populate-my-own-database/modules/designing-a-database-schema/lessons/what-is-database-schema/exercises/creating-your-tables
 
 ### WHAT IS A DATABASE SCHEMA?
 
@@ -52,4 +52,16 @@ CREATE TABLE person (
 );
 
 ```
+In script.sql, create another table, chapter with these columns:
 
+id for a unique chapter identifier, in integer type
+number for chapter number, in integer type
+title for the chapter title with varchar of 50 characters
+content for the chapter content with varchar of 1024 characters.
+Checkpoint 3 Passed
+3.
+Similarly, create the table, author in script.sql with these columns:
+
+name for author name, in varchar of 50 characters
+bio for author bio, in varchar of 100 characters
+email for author email, in varchar of 20 characters
