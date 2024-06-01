@@ -27,7 +27,7 @@ In this example, the table name is person, and its column names include first_na
 Each column name is associated with a column type which is a data type such as numeric, character, boolean or other interesting types. Here is a summary of common data types, what they represent, their sample values and how they display on Postgres:
 
 
-![](./ postgres-data.png)
+![](postgres-data.png)
 
 Let’s get started in creating our tables for our book inventory database schema from a previous exercise.
 
