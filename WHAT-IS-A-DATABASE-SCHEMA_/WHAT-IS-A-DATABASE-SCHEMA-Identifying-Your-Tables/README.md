@@ -1,8 +1,9 @@
 
 
-WHAT IS A DATABASE SCHEMA?
-Identifying Your Tables
-7 min
+### WHAT IS A DATABASE SCHEMA?
+
+## Identifying Your Tables
+
 In this exercise, we are going to delve into designing our own database schema. The purpose of our database is to enable an online bookstore to show its catalog of books to potential buyers and for a buyer to preview sample chapters for a selected book. Imagine you are book browsing on Amazon.com.
 
 After gathering information for this database, we found that our database should have:
