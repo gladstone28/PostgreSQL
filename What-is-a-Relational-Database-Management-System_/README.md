@@ -70,7 +70,7 @@ Oracle DB is for large applications, particularly in the banking industry. Most 
 
 The main disadvantage of using Oracle is that it is not free to use like its open source competitors and can be quite expensive.
 
-#### SQL Server
+#### [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
 
 Microsoft owns SQL Server. Like Oracle DB, the code is close sourced.
 
@@ -78,13 +78,13 @@ Large enterprise applications mostly use SQL Server.
 
 Microsoft offers a free entry-level version called Express but can become very expensive as you scale your application.
 
-#### SQLite
+#### [SQLite](https://www.sqlite.org/)
 
 SQLite is a popular open source SQL database. It can store an entire database in a single file. One of the most significant advantages this provides is that all of the data can be stored locally without having to connect your database to a server.
 
 SQLite is a popular choice for databases in cellphones, PDAs, MP3 players, set-top boxes, and other electronic gadgets. The SQL courses on Codecademy use SQLite.
 
-For more info on SQLite, including installation instructions, read this article.
+For more info on SQLite, including installation instructions, read [this](https://www.codecademy.com/courses/learn-sql/articles/what-is-sqlite) article.
 
 ##### Using An RDBMS On Codecademy
 On Codecademy, we use both SQLite and PostgreSQL. While this may sound confusing, don’t worry! We want to stress that the basic syntax you will learn can be used in both systems. For example, the syntax to create tables, insert data into those tables, and retrieve data from those tables are all identical. That’s one of the nice parts of learning SQL — by learning the fundamentals with one RDBMS, you can easily begin work in another.
