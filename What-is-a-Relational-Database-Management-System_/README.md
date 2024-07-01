@@ -1,8 +1,10 @@
-link to informational
+link to informational:
+
 https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/articles/what-is-rdbms-sql
 
-What is a Relational Database Management System?
-Learn about RDBMS and the language used to access large datasets – SQL.
+### What is a Relational Database Management System?
+
+**Learn about RDBMS and the language used to access large datasets – SQL.**
 
 ![](./rdbms_header.svg)
 
