@@ -1,7 +1,11 @@
+Lesson Link:
+
+https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/informationals/welcome-to-design-databases-with-postgresql
 
 
-Welcome To Design Databases With PostgreSQL
-Let’s take a look at what’s coming up in this path!
+### Welcome To Design Databases With PostgreSQL
+
+## Let’s take a look at what’s coming up in this path!
 
 Welcome to the Design Databases With PostgreSQL skill path! Let’s take a look at what is coming up in this path. This path is broken into five main sections — by the end of the path, you should have the skills you need to design and implement your very own database.
 
